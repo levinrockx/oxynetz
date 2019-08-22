@@ -1,0 +1,29 @@
+:0: UserWarning: You do not have a working installation of the service_identity module: 'cannot import name 'opentype''.  Please install it from <https://pypi.python.org/pypi/service_identity> and make sure all of its dependencies are satisfied.  Without the service_identity module, Twisted can perform only rudimentary TLS client hostname verification.  Many valid certificate/hostname mappings may be rejected.
+2019-08-11 15:03:04,509 - INFO - runworker - Using single-threaded worker.
+2019-08-11 15:03:04,510 - INFO - runworker - Running worker against channel layer default (asgi_redis.core.RedisChannelLayer)
+2019-08-11 15:03:04,519 - INFO - worker - Listening on channels http.request, websocket.connect, websocket.disconnect, websocket.receive
+2019-08-12 12:29:38,943 - INFO - worker - Shutdown signal received while idle, terminating immediately
+:0: UserWarning: You do not have a working installation of the service_identity module: 'cannot import name 'opentype''.  Please install it from <https://pypi.python.org/pypi/service_identity> and make sure all of its dependencies are satisfied.  Without the service_identity module, Twisted can perform only rudimentary TLS client hostname verification.  Many valid certificate/hostname mappings may be rejected.
+2019-08-12 12:29:54,054 - INFO - runworker - Using single-threaded worker.
+2019-08-12 12:29:54,065 - INFO - runworker - Running worker against channel layer default (asgi_redis.core.RedisChannelLayer)
+2019-08-12 12:29:54,069 - INFO - worker - Listening on channels http.request, websocket.connect, websocket.disconnect, websocket.receive
+2019-08-12 13:42:58,696 - INFO - worker - Shutdown signal received while idle, terminating immediately
+:0: UserWarning: You do not have a working installation of the service_identity module: 'cannot import name 'opentype''.  Please install it from <https://pypi.python.org/pypi/service_identity> and make sure all of its dependencies are satisfied.  Without the service_identity module, Twisted can perform only rudimentary TLS client hostname verification.  Many valid certificate/hostname mappings may be rejected.
+2019-08-12 13:43:15,929 - INFO - runworker - Using single-threaded worker.
+2019-08-12 13:43:15,935 - INFO - runworker - Running worker against channel layer default (asgi_redis.core.RedisChannelLayer)
+2019-08-12 13:43:15,947 - INFO - worker - Listening on channels http.request, websocket.connect, websocket.disconnect, websocket.receive
+2019-08-12 13:56:45,395 - INFO - worker - Shutdown signal received while idle, terminating immediately
+:0: UserWarning: You do not have a working installation of the service_identity module: 'cannot import name 'opentype''.  Please install it from <https://pypi.python.org/pypi/service_identity> and make sure all of its dependencies are satisfied.  Without the service_identity module, Twisted can perform only rudimentary TLS client hostname verification.  Many valid certificate/hostname mappings may be rejected.
+2019-08-12 13:57:02,121 - INFO - runworker - Using single-threaded worker.
+2019-08-12 13:57:02,131 - INFO - runworker - Running worker against channel layer default (asgi_redis.core.RedisChannelLayer)
+2019-08-12 13:57:02,132 - INFO - worker - Listening on channels http.request, websocket.connect, websocket.disconnect, websocket.receive
+2019-08-12 14:06:27,448 - INFO - worker - Shutdown signal received while idle, terminating immediately
+:0: UserWarning: You do not have a working installation of the service_identity module: 'cannot import name 'opentype''.  Please install it from <https://pypi.python.org/pypi/service_identity> and make sure all of its dependencies are satisfied.  Without the service_identity module, Twisted can perform only rudimentary TLS client hostname verification.  Many valid certificate/hostname mappings may be rejected.
+2019-08-12 14:06:45,533 - INFO - runworker - Using single-threaded worker.
+2019-08-12 14:06:45,543 - INFO - runworker - Running worker against channel layer default (asgi_redis.core.RedisChannelLayer)
+2019-08-12 14:06:45,544 - INFO - worker - Listening on channels http.request, websocket.connect, websocket.disconnect, websocket.receive
+2019-08-12 15:53:17,621 - INFO - worker - Shutdown signal received while idle, terminating immediately
+:0: UserWarning: You do not have a working installation of the service_identity module: 'cannot import name 'opentype''.  Please install it from <https://pypi.python.org/pypi/service_identity> and make sure all of its dependencies are satisfied.  Without the service_identity module, Twisted can perform only rudimentary TLS client hostname verification.  Many valid certificate/hostname mappings may be rejected.
+2019-08-12 15:53:36,708 - INFO - runworker - Using single-threaded worker.
+2019-08-12 15:53:36,708 - INFO - runworker - Running worker against channel layer default (asgi_redis.core.RedisChannelLayer)
+2019-08-12 15:53:36,709 - INFO - worker - Listening on channels http.request, websocket.connect, websocket.disconnect, websocket.receive
